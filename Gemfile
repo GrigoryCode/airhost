@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'devise', '~> 4.6', '>= 4.6.1'
 gem 'jquery-rails'
+gem 'toastr-rails'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
